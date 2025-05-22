@@ -1,6 +1,7 @@
 <!-- BEGIN REVISED README.MD BLOCK -->
 
 # Simple Chat
+Modified by JR
 
 ![logo](./images/logo.png)
 
